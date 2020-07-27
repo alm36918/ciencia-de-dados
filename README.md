@@ -1,1 +1,1 @@
-# ciencia-de-dados
+Todos os arquivos aqui são resultados de estudos, testes e experimentações que faço na minha jornada aprendendo Ciência de Dados e Inteligência Artificial. A maioria dos códigos são em Python e qualquer pessoa pode usar sem pedir permissão. 
